@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **python**
 
-- 👨‍💻 All of my projects are available at [https://amrith-gold.netlify.app/](https://amrith-gold.netlify.app/)
-
 - 💬 Ask me about **MERN, webApp**
 
 - 📫 How to reach me **goldandgold1002@gmail.com**
