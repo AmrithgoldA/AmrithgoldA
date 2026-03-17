@@ -4,15 +4,14 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=%E2%9E%A4+Initializing+System...;%E2%9E%A4+Full+Stack+Developer;%E2%9E%A4+MERN+Stack+Specialist;%E2%9E%A4+Building+the+Future.exe" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=%E2%9E%A4+Initializing+System...;%E2%9E%A4+Full+Stack+Developer;%E2%9E%A4+MERN+Stack+Specialist;%E2%9E%A4+Building+futuristic+web+applications." alt="Typing SVG" />
   </a>
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 👾 //: SYS.INFO [About Me]
+### 👾 //: SYS.INFO [Authentication: Verified]
 
 ```javascript
 /**
@@ -23,35 +22,34 @@ class Amrith extends Developer {
   constructor() {
     super();
     this.name = "Amrith Gold";
-    this.role = "Full Stack Engineer";
+    this.role = "Full Stack Engineer & Tech Enthusiast";
     this.location = "India_Grid_0x1";
-    this.status = "System Online & Hacking 🟢";
+    this.status = "System Online & Coding 🟢";
+    this.passion = "Solving complex algorithmic puzzles 🧩";
   }
 
   getCurrentDirectives() {
     return {
-      building: "Advanced Web Modules, Portfolios, & Web Apps",
-      learning: ["Advanced Python", "System Architecture", "Next-Gen UI/UX"],
-      collaborating: "Always open for Open Source & Hackathons!"
+      executing: "Building robust MERN applications & enterprise dashboards",
+      decrypting: ["Advanced Python Concepts", "Scalable Microservices", "CI/CD Pipelines"],
+      transmitting: "Always open to collaborating on innovative open-source projects!"
     };
   }
 
   getArsenal() {
     return {
-      frontend: ["React.js", "Redux", "TailwindCSS", "Framer Motion", "Sass"],
+      frontend: ["React.js", "Redux", "TailwindCSS", "Bootstrap", "HTML5", "CSS3"],
       backend: ["Node.js", "Express.js", "Python", "RESTful APIs"],
       datastores: ["MongoDB", "PostgreSQL", "MySQL", "MS SQL", "Firebase"],
-      devOps: ["Docker", "Git", "Webpack", "Postman", "Linux"]
+      devOps: ["Docker", "Git", "Webpack", "Linux", "Postman", "VPS Deployment"]
     };
   }
 }
 ```
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🚀 //: TECH_ARSENAL [Equipped Skills]
+### 🚀 //: TECH_ARSENAL [Module Dependencies]
 
 <br/>
 <p align="center">
@@ -69,71 +67,57 @@ class Amrith extends Developer {
 </p>
 <br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🌌 //: NETWORK.STATS [Telemetry Data]
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=amrithgolda&theme=synthwave&no-frame=true&no-bg=true&margin-w=15" alt="amrithgolda trophies" />
 </div>
-<br>
+<br/>
 
-<div align="center">
-  <!-- Contribution Activity Graph Details -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amrithgolda&theme=synthwave&hide_border=true&bg_color=0D1117" alt="Amrith's Activity Graph" />
-</div>
-<br>
-
-<div align="center">
-  <!-- Advanced Details Profile Summary Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amrithgolda&theme=synthwave" alt="Amrith's Profile Details" />
-</div>
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrithgolda&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117" alt="amrithgolda github stats" />
+<!-- Main Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amrithgolda&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&count_private=true" alt="amrithgolda github stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrithgolda&theme=synthwave&hide_border=true&background=0D1117" alt="amrithgolda streak stats" />
-</div>
+</p>
 
-<br>
-
-<div align="center">
+<!-- Secondary Stats -->
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amrithgolda&show_icons=true&theme=synthwave&hide_border=true&layout=compact&bg_color=0D1117" alt="amrithgolda top languages" />
-  <a href="https://github.com/amrithgolda/amrith-gold.netlify.app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrithgolda&repo=amrith-gold.netlify.app&theme=synthwave&hide_border=true&bg_color=0D1117" alt="Portfolio Repo Placeholder" />
-  </a>
-</div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amrithgolda&theme=synthwave" alt="Amrith's Profile Details" />
+</p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 📡 //: COMM_CHANNELS [Establish Connection]
 
 <div align="center">
+  <!-- Connect Badges -->
   <a href="https://github.com/amrithgolda" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-00FFFF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
+    <img src="https://img.shields.io/badge/-GitHub-00FFFF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
   </a>
   <a href="https://twitter.com/aamrith" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-00FFFF?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter" />
+    <img src="https://img.shields.io/badge/-Twitter-00FFFF?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter" />
   </a>
   <a href="https://www.linkedin.com/in/amrith-gold-651053200/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
   </a>
   <a href="https://dev.to/a_amrithgold_b68ecd5735" target="_blank">
-    <img src="https://img.shields.io/badge/DEV.to-00FFFF?style=for-the-badge&logo=dev.to&logoColor=black" alt="DEV.to" />
+    <img src="https://img.shields.io/badge/-DEV.to-00FFFF?style=for-the-badge&logo=dev.to&logoColor=black" alt="DEV.to" />
   </a>
   <a href="https://stackoverflow.com/users/a-amrith-gold" target="_blank">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-00FFFF?style=for-the-badge&logo=stack-overflow&logoColor=black" alt="StackOverflow" />
+    <img src="https://img.shields.io/badge/-Stack%20Overflow-00FFFF?style=for-the-badge&logo=stack-overflow&logoColor=black" alt="StackOverflow" />
   </a>
   <a href="mailto:goldandgold1002@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+    <img src="https://img.shields.io/badge/-Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
   </a>
   <a href="https://amrith-gold.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=hyper&logoColor=black" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/-Portfolio-00FFFF?style=for-the-badge&logo=hyper&logoColor=black" alt="Portfolio" />
   </a>
   <br><br>
-  <p><img src="https://komarev.com/ghpvc/?username=amrithgolda&label=Profile%20Views&color=00FFFF&style=flat-square&logo=github" alt="amrithgolda" /></p>
+  <!-- Views Badge -->
+  <a href="https://github.com/amrithgolda">
+    <img src="https://komarev.com/ghpvc/?username=amrithgolda&label=Profile%20Views&color=00FFFF&style=for-the-badge&logo=github" alt="amrithgolda profile views" />
+  </a>
 </div>
