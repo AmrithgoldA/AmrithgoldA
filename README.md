@@ -15,40 +15,56 @@
 ### 👾 //: SYS.INFO [About Me]
 
 ```javascript
-const amrith = {
-    location: "India, Sector 0x1",
-    status: "Online & Hacking 🟢",
-    currentFocus: ["Portfolio Development", "Python Backend Mastery"],
-    coreStack: ["MongoDB", "Express", "React", "Node.js"],
-    skills: {
-        frontend: ["React.js", "Redux", "TailwindCSS", "Framer Motion"],
-        backend: ["Node.js", "Express.js", "Python", "REST APIs"],
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "MS SQL", "Firebase"],
-        devops: ["Docker", "Git", "Webpack", "Postman"]
-    },
-    contact: "goldandgold1002@gmail.com",
-    mission: "To write clean, scalable, and futuristic code. 🚀"
-};
+/**
+ * @class Developer
+ * @description Full Stack Architect specializing in high-performance web applications.
+ */
+class Amrith extends Developer {
+  constructor() {
+    super();
+    this.name = "Amrith Gold";
+    this.role = "Full Stack Engineer";
+    this.location = "India_Grid_0x1";
+    this.status = "System Online & Hacking 🟢";
+  }
+
+  getCurrentDirectives() {
+    return {
+      building: "Advanced Web Modules, Portfolios, & Web Apps",
+      learning: ["Advanced Python", "System Architecture", "Next-Gen UI/UX"],
+      collaborating: "Always open for Open Source & Hackathons!"
+    };
+  }
+
+  getArsenal() {
+    return {
+      frontend: ["React.js", "Redux", "TailwindCSS", "Framer Motion", "Sass"],
+      backend: ["Node.js", "Express.js", "Python", "RESTful APIs"],
+      datastores: ["MongoDB", "PostgreSQL", "MySQL", "MS SQL", "Firebase"],
+      devOps: ["Docker", "Git", "Webpack", "Postman", "Linux"]
+    };
+  }
+}
 ```
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-### 🚀 //: ARSENAL [Tech Stack]
+### 🚀 //: TECH_ARSENAL [Equipped Skills]
 
 <br/>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,sass" />
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,sass&theme=dark" />
   </a>
   <br><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql,postgres,firebase" />
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql,postgres,firebase,redis&theme=dark" />
   </a>
   <br><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,jest,webpack,figma,postman" />
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git,docker,jest,webpack,figma,postman,vscode,linux&theme=dark" />
   </a>
 </p>
 <br/>
@@ -57,10 +73,22 @@ const amrith = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-### 🌌 //: NETWORK . STATS
+### 🌌 //: NETWORK.STATS [Telemetry Data]
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=amrithgolda&theme=synthwave&no-frame=true&no-bg=true&margin-w=15" alt="amrithgolda trophies" />
+</div>
+<br>
+
+<div align="center">
+  <!-- Contribution Activity Graph Details -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amrithgolda&theme=synthwave&hide_border=true&bg_color=0D1117" alt="Amrith's Activity Graph" />
+</div>
+<br>
+
+<div align="center">
+  <!-- Advanced Details Profile Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amrithgolda&theme=synthwave" alt="Amrith's Profile Details" />
 </div>
 <br>
 
@@ -73,17 +101,16 @@ const amrith = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amrithgolda&show_icons=true&theme=synthwave&hide_border=true&layout=compact&bg_color=0D1117" alt="amrithgolda top languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrithgolda&repo=amrith-gold.netlify.app&theme=synthwave&hide_border=true&bg_color=0D1117" alt="Portfolio Repo Placeholder" />
+  <a href="https://github.com/amrithgolda/amrith-gold.netlify.app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrithgolda&repo=amrith-gold.netlify.app&theme=synthwave&hide_border=true&bg_color=0D1117" alt="Portfolio Repo Placeholder" />
+  </a>
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-### 📡 //: COMM_CHANNELS [Connect]
+### 📡 //: COMM_CHANNELS [Establish Connection]
 
 <div align="center">
   <a href="https://github.com/amrithgolda" target="_blank">
@@ -100,6 +127,12 @@ const amrith = {
   </a>
   <a href="https://stackoverflow.com/users/a-amrith-gold" target="_blank">
     <img src="https://img.shields.io/badge/Stack%20Overflow-00FFFF?style=for-the-badge&logo=stack-overflow&logoColor=black" alt="StackOverflow" />
+  </a>
+  <a href="mailto:goldandgold1002@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+  </a>
+  <a href="https://amrith-gold.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=hyper&logoColor=black" alt="Portfolio" />
   </a>
   <br><br>
   <p><img src="https://komarev.com/ghpvc/?username=amrithgolda&label=Profile%20Views&color=00FFFF&style=flat-square&logo=github" alt="amrithgolda" /></p>
