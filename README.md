@@ -88,6 +88,12 @@ class Amrith extends Developer {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amrithgolda&theme=synthwave" alt="Amrith's Profile Details" />
 </p>
 
+<!-- Extra Graph Stats -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amrithgolda&theme=synthwave" alt="Amrith's Stats Overview" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amrithgolda&theme=synthwave&utcOffset=5.5" alt="Amrith's Productive Time" />
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 📡 //: COMM_CHANNELS [Establish Connection]
